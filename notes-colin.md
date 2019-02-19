@@ -27,6 +27,8 @@ Feedback on:
 
 8. option to copy automatically from last year
 
+9. potential for multiple runs / repos per stock
+
 ----
 
 ## Ideas for 'quality scoring' an assessment
