@@ -25,6 +25,8 @@ Feedback on:
 
 7. job list / feedback about position in the queue
 
+8. option to copy automatically from last year
+
 ----
 
 ## Ideas for 'quality scoring' an assessment
