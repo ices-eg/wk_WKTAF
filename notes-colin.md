@@ -30,3 +30,14 @@ Feedback on:
 * code comments and clarity / readability (human review)
 * Before: After: match with what happens
 * ...
+
+## Ideas always wanted
+
+if you want to contribute ideas and suggestions should we use Issues - or is there a better forum for this
+
+Possibly a seperate repository for feedback and ideas?
+
+Or a discussion board for those interested in taking part?
+
+
+
