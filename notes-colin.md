@@ -9,6 +9,8 @@ Feedback on:
 
 4. Provide a non-git / non-github methods to upload code and data
 
+5. suggestion: only install r package, and do not refresh data or software
+
 ----
 
 ## Ideas for 'quality scoring' an assessment
